@@ -16,6 +16,7 @@ we are creating this community so that other developers can get benefits of it. 
  7. Push the changes so that Pull request will be generated.
  8. Make PR.
  9. Commits should be descriptive.
+ 10.Include CDN-link of the images used in your Web-Sites using Cloudinary[https://cloudinary.com/]. 
 
 ## What To Contribute
 
