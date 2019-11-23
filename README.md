@@ -1,9 +1,9 @@
 
-# RaavanHackto!
+# HELPER PROJECTS
 
 ## About Project
 
-we are creating this community so that other developers can get benefits of it. In this project all developers together will contribute their designs of what they have created and other developers will use  designs created by other developers to create their own projects and prototypes.
+Creating this community so that other developers can get benefits of it. In this project all developers together will contribute their designs of what they have created and other developers will use  designs created by other developers to create their own projects and prototypes.
 
 
 ## How to contribute
@@ -38,6 +38,6 @@ we are creating this community so that other developers can get benefits of it. 
 * Angular
 
 # License 
-### _You are free to use our creation but give me credit._
+### _You are free to use our creation.
 
-**Thank you for your interest! All types of contributions welcome.** 
+**Thank you for your interest! All types of contributions are welcome.** 
